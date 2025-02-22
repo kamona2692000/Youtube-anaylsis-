@@ -1,33 +1,52 @@
-🚀 YouTube Trending Videos Data Analysis Project 🎥📊
+📊 YouTube Trending Videos Data Analysis Project 🎥
+Power BI
+Data Analysis
+YouTube API
 
-This project analyzes YouTube trending videos across multiple countries, providing key insights through interactive Power BI visualizations and a robust data model.
+📌 Project Overview
+This project focuses on analyzing YouTube Trending Videos data to uncover insights about trending content, viewer engagement, and popular categories. Using Power BI, I processed and visualized key metrics to understand what makes videos trend and how audiences interact with them.
+🎥 YouTube Trending Videos Data Analysis Project
+Welcome to the YouTube Trending Videos Data Analysis Project! This project is all about exploring and visualizing trending video data from YouTube using Power BI. I built a data model, created interactive dashboards, and extracted meaningful insights from the data.
 
-📊 Project Overview
+🚀 Project Overview
+🧑‍💻 Built a robust data model in Power BI
+📊 Created insightful visualizations to explore key metrics
+🔍 Analyzed trends and patterns in YouTube trending videos
+📈 Key Insights
+🎥 Total number of videos and channels analyzed
+🏆 Top trending channels and most popular categories
+⏳ Views distribution over time
+🔝 Top 10 most viewed videos with engagement metrics (likes, dislikes, comments)
+🛠 Tools & Technologies
+🖥 Power BI for data modeling and dashboard creation
+🗃 SQL for data extraction and transformation
+📄 Excel for data cleaning and preparation
 
-Using Power BI, I built a comprehensive dashboard to explore and visualize data from YouTube's trending videos dataset. This project helped me strengthen my skills in data modeling, DAX calculations, and creating interactive visualizations.
+🚀 Key Features
+Data Modeling: Built a robust data model to handle large datasets efficiently.
 
-🔍 Key Insights
+DAX Calculations: Utilized advanced DAX formulas to compute metrics like views, likes, dislikes, and comments.
 
-📌 Total Videos & Channels Analyzed
+Interactive Dashboards: Created dynamic and user-friendly visualizations to explore trends and patterns.
 
-📌 Top Trending Video Channels & Most Popular Categories
+Insights Discovery: Uncovered actionable insights to understand viewer behavior and content performance.
 
-📌 Views Distribution Over Time
+📊 Metrics Analyzed
+Total Videos & Channels Analyzed: Identified the total number of trending videos and channels in the dataset.
 
-📌 Top 10 Most Viewed Videos with Likes, Dislikes, and Comments
+Top Trending Video Channels: Highlighted the most popular channels based on views and engagement.
+
+Most Popular Categories: Analyzed which video categories dominate the trending section.
+
+Views Distribution Over Time: Visualized how views fluctuate over different time periods.
+
+Top 10 Most Viewed Videos: Showcased the top 10 videos with the highest views, likes, dislikes, and comments.
 
 🛠️ Tools & Technologies
+Power BI: For data processing, analysis, and visualization.
 
-Power BI: Data modeling, DAX calculations, and interactive dashboard creation
+DAX (Data Analysis Expressions): For advanced calculations and metrics.
 
-SQL: Data extraction and transformation
+Excel/CSV: For initial data cleaning and preparation.
 
-Excel: Data cleaning and preprocessing
-
-🚀 How This Project Stands Out
-
-Built a robust and optimized data model
-
-Created dynamic and insightful visualizations
-
-Extracted actionable insights from raw data
+YouTube API: For extracting trending video data (if applicable).

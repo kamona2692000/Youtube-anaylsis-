@@ -41,10 +41,9 @@ Top 10 Most Viewed Videos: Showcased the top 10 videos with the highest views, l
 🛠️ Tools & Technologies
 Power BI: For data processing, analysis, and visualization.
 
-u can check the project by this link https://drive.google.com/drive/u/2/folders/1Fqz6OGmV0MvrtZSq9o3RvYgZfQNaVada
-
 DAX (Data Analysis Expressions): For advanced calculations and metrics.
 
 Excel/CSV: For initial data cleaning and preparation.
 
-YouTube API: For extracting trending video data (if applicable).
+u can check the project by this link https://drive.google.com/drive/u/2/folders/1Fqz6OGmV0MvrtZSq9o3RvYgZfQNaVada
+

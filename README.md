@@ -1,7 +1,6 @@
 📊 YouTube Trending Videos Data Analysis Project 🎥
 Power BI
 Data Analysis
-YouTube API
 
 📌 Project Overview
 This project focuses on analyzing YouTube Trending Videos data to uncover insights about trending content, viewer engagement, and popular categories. Using Power BI, I processed and visualized key metrics to understand what makes videos trend and how audiences interact with them.
@@ -16,10 +15,7 @@ Welcome to the YouTube Trending Videos Data Analysis Project! This project is al
 🎥 Total number of videos and channels analyzed
 🏆 Top trending channels and most popular categories
 ⏳ Views distribution over time
-🔝 Top 10 most viewed videos with engagement metrics (likes, dislikes, comments)
-🛠 Tools & Technologies
 🖥 Power BI for data modeling and dashboard creation
-🗃 SQL for data extraction and transformation
 📄 Excel for data cleaning and preparation
 
 🚀 Key Features
@@ -44,6 +40,8 @@ Top 10 Most Viewed Videos: Showcased the top 10 videos with the highest views, l
 
 🛠️ Tools & Technologies
 Power BI: For data processing, analysis, and visualization.
+
+u can check the project by this link https://drive.google.com/drive/u/2/folders/1Fqz6OGmV0MvrtZSq9o3RvYgZfQNaVada
 
 DAX (Data Analysis Expressions): For advanced calculations and metrics.
 
